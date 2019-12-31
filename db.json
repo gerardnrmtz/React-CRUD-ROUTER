@@ -1,0 +1,46 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "200",
+      "nombrePlatillo": "Pestelisto",
+      "categoria": "postre",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 400g",
+      "categoria": "bebida",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Lasagna",
+      "precioPlatillo": "300",
+      "categoria": "cortes",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Agua de jamaica",
+      "precioPlatillo": "35",
+      "categoria": "bebida",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Pastel de zanahoria",
+      "precioPlatillo": "90",
+      "categoria": "postre",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "newyork",
+      "precioPlatillo": "260",
+      "categoria": "cortes",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "pollo",
+      "precioPlatillo": "12",
+      "categoria": "ensalada",
+      "id": 7
+    }
+  ]
+}
